@@ -1,0 +1,273 @@
+*{padding: 0%;
+    margin: 0px;}
+    @media  only screen and (min-width:600px) and(max-width:1024px) {
+        
+    }
+    h2{text-align: center;
+        color: rgb(255, 139, 6);
+        background-color: black;
+        border-bottom-left-radius: 20PX;
+        border-bottom-right-radius: 20PX;
+    padding-top: 5px;}
+    P{text-align:center;
+    margin-top:-200PX ;}
+    
+    .overbody{background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);}
+    .container1{
+    height: 80px;
+    width: auto;
+    color: red;
+    background-color: rgb(186, 167, 206);
+     position: fixed;
+    width: 100%; 
+    }
+    
+    .arh2{
+        padding-top: 97px;
+    }
+    
+    #logoimg{height: 100px;
+    width: 140px;
+    border-radius: 50px;
+    margin-top: -30px;
+    }
+    
+    .logoname{margin-left: 180px;
+    margin-bottom: -42px;
+    margin-top: -67px; }
+    
+    .toplist{ list-style-type: none;
+        color: brown;
+        float: right;
+        display: flex;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-right: 40px;
+    }
+    
+    
+    .toper{
+    height: 50px;
+    width: 500px;
+    float: right;}
+    
+    li{ padding: 20px;
+        
+        border-radius: 10px;   
+    }
+    
+    #topbutton{border-radius: 300px;
+    background-color: blue;
+    padding: 10px;}
+    
+    a{color: beige;
+    text-decoration: none;}
+    h2{text-align: center;}
+    .traillogo{height: 35px;
+        padding: 2px;
+        border-radius: 60px;
+        margin-left: 358px;
+        float: right;
+    width: 60px;}
+    
+    .container1-1{
+        width: auto;
+        height: 600px;
+        /* background-color: rgb(238, 238, 105); */
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 50px;
+        }
+        .container1-1-1{
+            height: 300px;
+            width: 520px;
+            background-image: url(./assets/invitation\ card\ 1.jpeg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin-left: 100px;
+            border-radius: 20px;
+            border: 30px;
+            border-style: inset;
+            /* border-color: rgb(12, 184, 126); */
+        }
+    
+        .container1-1_1{height: 40px;
+        width: auto;
+        border-radius: 20px;
+    background-color: rgb(247, 188, 227);
+    margin-top: 242px;
+    }
+    
+    #trailbutton{
+        
+        border-radius: 20px;
+        margin-left: 10px;
+        padding: 5px;
+        margin-top: 5px;
+    }
+    .container1-1-2{
+        height: 300px;
+        width: 520px;
+        background-image: url(./assets/stamp\ bg\ 1.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 200px;
+        border-radius: 20px; 
+        border: 30px;
+        border-style: inset;
+        border-color: rgba(12, 164, 235, 0.836);
+    }
+    .container1-2{
+        width: auto;
+        height: 500px;
+        /* background-color: rgb(238, 238, 105); */
+    
+    }
+    .p2{margin-left: 350px;}
+    .container1-2_1{height: 40px;
+    width: auto;
+    border-radius: 20px;
+    background-color: rgb(247, 188, 227);
+    margin-top: 242px;
+    }
+    
+        
+    .container1-1-3{
+        height: 300px;
+        width: 520px;
+        background-image: url(./assets/screen\ printing\ 1.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 300px;
+        border-radius: 20px;  border: 30px;
+        border-style: inset;
+        /* border-color: rgb(250, 5, 156); */
+    }
+    .container1-3{
+        width: auto;
+        height: 500px;
+        /* background-color: rgb(238, 238, 105); */
+    }
+    .p3{margin-left: 600px;}
+    .container1-3_1{height: 40px;
+    width: auto;
+    border-radius: 20px;
+    background-color: rgb(247, 188, 227);
+    margin-top: 242px;
+    }
+    
+    .container1-1-4{
+        height: 300px;
+        width: 520px;
+        background-image: url(./assets/poster\ bg\ 2.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 400px;
+        border-radius: 20px; 
+        border: 30px;
+        border-style: inset;
+        border-color: rgb(97, 12, 233);
+    }
+    .container1-4{
+        width: auto;
+        height: 500px;
+        /* background-color: rgb(238, 238, 105); */
+    }
+    .p4{text-align: center;
+    margin-left: 700PX;}
+    .container1-4_1{height: 40px;
+    width: auto;
+    border-radius: 20px;
+    background-color: rgb(247, 188, 227);
+    margin-top: 242px;
+    }
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .flip-card {
+        background-color: transparent;
+        width: 300px;
+        height: 300px;
+        perspective: 800px;
+        padding: 40px;
+        border-bottom-right-radius:300px ;
+    }
+    
+    .flip-card-inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform 0.3s;
+        transform-style: preserve-3d;
+        /* box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2); */
+        backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+    }
+    
+    .flip-card-front,
+    .flip-card-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .flip-card-front {
+        background: linear-gradient(to left, #ee9fd6, #e7b7e3);
+        z-index: 2;
+       border-bottom-right-radius: 100px;
+       border-bottom-left-radius: 100px;
+    }
+    
+    
+    
+    
+    .flip-card-back {
+        background: linear-gradient(to right, #7dec9f, #97e085);
+        z-index: 1;
+        transform: rotateY(180deg);border-bottom-right-radius: 100px;
+        border-bottom-left-radius: 100px;
+    }
+    
+    
+    
+    .forth3{
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 500;
+        padding: 20px;
+        
+    }
+    
+    
+    
+    .flip-card:hover .flip-card-inner,
+    .flip-card:focus .flip-card-inner {
+        transform: rotateY(180deg);
+    }
+    
+    .flexcontainer{
+        display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    }
+    
+    .forth1tag{text-align: center;}
